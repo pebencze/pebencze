@@ -15,6 +15,8 @@ To be continued...
 # Projects
 
 ## 42 Berlin - Common Core
+### Level 0
+- [Libft](https://github.com/pebencze/Libft.git)
 ### Level 1
 ### Level 2
 ### Level 3
