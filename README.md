@@ -18,8 +18,16 @@ To be continued...
 ### Level 0
 - [Libft](https://github.com/pebencze/Libft.git)
 ### Level 1
+- [Get Next Line](https://github.com/pebencze/Get_next_line.git)
+- [Printf](https://github.com/pebencze/Printf.git)
+- [Born To Be Root]()
 ### Level 2
+- [Push Swap]()
+- [So Long]()
+- [Minitalk]()
 ### Level 3
+- [Minishell]()
+- [Philosophers]()
 ### ...
 
 ## 42 Berlin - Piscine
