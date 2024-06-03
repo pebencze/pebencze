@@ -23,7 +23,7 @@ To be continued...
 - [Born To Be Root]()
 ### Level 2
 - [Push Swap]()
-- [So Long]()
+- [So Long](https://github.com/pebencze/SoLong.git)
 - [Minitalk]()
 ### Level 3
 - [Minishell]()
