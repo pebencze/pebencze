@@ -22,11 +22,11 @@ To be continued...
 - [Printf](https://github.com/pebencze/Printf.git)
 - [Born To Be Root](https://github.com/pebencze/Born2beRoot.git)
 ### Level 2
-- [Push Swap]()
+- [Push Swap](https://github.com/pebencze/PushSwap.git)
 - [So Long](https://github.com/pebencze/SoLong.git)
-- [Minitalk]()
+- [Minitalk](https://github.com/pebencze/Minitalk.git)
 ### Level 3
-- [Minishell]()
+- [Minishell](https://github.com/henniphilo/minishell.git)
 - [Philosophers](https://github.com/pebencze/Philosophers.git)
 ### ...
 
