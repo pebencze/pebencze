@@ -27,7 +27,7 @@ To be continued...
 - [Minitalk]()
 ### Level 3
 - [Minishell]()
-- [Philosophers]()
+- [Philosophers](https://github.com/pebencze/Philosophers.git)
 ### ...
 
 ## 42 Berlin - Piscine
