@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Petra
 
-I recently discovered my passion for software development after studying and working in the field of art history.
 Currently I am an aspiring software engineer studying at 42 Berlin. Have a look at some of my projects!
 
 To be continued...
