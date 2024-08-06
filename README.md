@@ -28,7 +28,12 @@ To be continued...
 - [Minishell](https://github.com/henniphilo/minishell.git)
 - [Philosophers](https://github.com/pebencze/Philosophers.git)
 ### Level 4
-- Net Practice
+- [Net Practice]()
+- [CPP00](https://github.com/pebencze/42CPP00.git)
+- [CPP01](https://github.com/pebencze/42CPP01.git)
+- [CPP02]()
+- [CPP03]()
+- [CPP04]()
 ### ...
 
 ## 42 Berlin - Piscine
