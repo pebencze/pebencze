@@ -36,6 +36,7 @@ To be continued...
 - [CPP03](https://github.com/pebencze/42CPP03.git)
 - [CPP04](https://github.com/pebencze/42CPP04.git)
 - [CPP05](https://github.com/pebencze/42CPP05.git)
+- [CPP06](https://github.com/pebencze/42CPP06.git)
 ### ...
 
 ## 42 Berlin - Piscine
