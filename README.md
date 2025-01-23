@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Petra
 
-Currently I am an aspiring software engineer studying at 42 Berlin. Have a look at some of my projects!
-
-To be continued...
+Currently I am a software engineer student at 42 Berlin. Have a look at some of my projects!
 
 # Skills
 <p align="center">
