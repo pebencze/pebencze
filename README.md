@@ -37,6 +37,7 @@ Currently I am a software engineer student at 42 Berlin. Have a look at some of 
 - [CPP05](https://github.com/pebencze/42CPP05.git)
 - [CPP06](https://github.com/pebencze/42CPP06.git)
 - [CPP07](https://github.com/pebencze/42CPP07.git)
+- [CPP08](https://github.com/pebencze/42CPP08.git)
 ### ...
 
 
