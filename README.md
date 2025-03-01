@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Petra
 
-Currently I am a software engineer student at 42 Berlin. Have a look at some of my projects!
+I am a software engineering student at 42 Berlin. Have a look at some of my projects!
 
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,github,bash,linux,vim,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=c,c++,git,github,bash,linux,vscode,notion" />
   </a>
 </p>
 
