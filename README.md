@@ -5,7 +5,7 @@ I am a software engineering student at 42 Berlin. Have a look at some of my proj
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,git,github,bash,linux,vscode,notion" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,bash,linux,vscode,notion" />
   </a>
 </p>
 
