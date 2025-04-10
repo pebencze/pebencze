@@ -2,6 +2,8 @@
 
 I am a software engineering student at 42 Berlin. Have a look at some of my projects!
 
+Currently working on a small web server in C++ with a team of 3!
+
 # Skills
 <p align="center">
   <a href="https://skillicons.dev">
